@@ -65,7 +65,7 @@
     "lodash.once": "^4.1.1",
     "merge-class-names": "^1.1.1",
     "prop-types": "^15.6.0",
-    "react-calendar": "https://github.com/blacktemplar/react-calendar/tarball/react-15-compatible"
+    "react-calendar": "https://github.com/blacktemplar/react-calendar/tarball/521efbe80961ad28cdc5cab9826a5ebb819b8ec8"
   },
   "peerDependencies": {
     "react": ">=15.5",
